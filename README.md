@@ -9,9 +9,9 @@ Ren'Py is open source and free for commercial use.
 
 ### Instructions
 
-[x] Visit: https://www.renpy.org/latest.html and Download SDK zip - 115 MiB
-[x] Clone Repo https://github.com/mogrady-professional/Forest-Hike
-[x] Open the Ren'Py Launcher and Load in the Project Repo
+- [x] Visit: https://www.renpy.org/latest.html and Download SDK zip - 115 MiB
+- [x] Clone Repo https://github.com/mogrady-professional/Forest-Hike
+- [x] Open the Ren'Py Launcher and Load in the Project Repo
 
 ### Ren'Py Launcher
 
