@@ -15,13 +15,13 @@ Ren'Py is open source and free for commercial use.
 
 ### Ren'Py Launcher
 
-<img src="https://github.com/mogrady-professional/Forest-Hike/tree/master/project-images/launcher.PNG" width="100%"/>
+<img src="https://github.com/mogrady-professional/Forest-Hike/blob/master/project-images/launcher.PNG" width="100%"/>
 
 ### Ren'Py Launcher
 
-<img src="https://github.com/mogrady-professional/Forest-Hike/tree/master/project-images/launcher2.PNG" width="100%"/>
+<img src="https://github.com/mogrady-professional/Forest-Hike/blob/master/project-images/launcher2.PNG" width="100%"/>
 
 ## Game Screenshots
 
 <img src="https://github.com/mogrady-professional/Forest-Hike/blob/master/project-images/intro.PNG" width="100%"/>
-<img src="https://github.com/mogrady-professional/Forest-Hike/tree/master/project-images/menu.PNG" width="100%"/>
+<img src="https://github.com/mogrady-professional/Forest-Hike/blob/master/project-images/menu.PNG" width="100%"/>
