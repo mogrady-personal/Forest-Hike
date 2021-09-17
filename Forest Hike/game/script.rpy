@@ -5,11 +5,13 @@
 
 define laura = Character('Laura')
 define tom = Character('Tom')
+#define music = "Music/mozart.ogg"
+#define sound = "Sound/woof.mp3"
 
 
 # The game starts here.
-
 label start:
+play music "Music/mozart.ogg"
 
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
@@ -69,6 +71,7 @@ else:
     show tom happy at right with moveinleft
     tom "We are fine. Look! There's the end of the trail."
     tom "I'm the best scout around."
+    play sound "Sound/woof.mp3"
 
     # These display lines of dialogue.
 
